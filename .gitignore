@@ -219,3 +219,7 @@ __marimo__/
 main.py
 pyproject.toml
 .python-version
+example_documents/1409.1556.pdf
+.gitignore
+example_documents/programming-pytorch-for-deep-learning-creating-and-deploying-deep-learning-applications.pdf
+example_documents/1512.03385.pdf
